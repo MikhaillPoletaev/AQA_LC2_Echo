@@ -11,7 +11,7 @@ class PostmanEchoTest {
     void shouldReturnSomeData() {
         given()
                 .baseUri("https://postman-echo.com")
-                .body("Privet")
+                .body("Data")
                 .when()
                 .post("/post")
                 .then()
