@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bpxt17lwej7ijhr0?svg=true)](https://ci.appveyor.com/project/MikhaillPoletaev/aqa-lc2-echo)
